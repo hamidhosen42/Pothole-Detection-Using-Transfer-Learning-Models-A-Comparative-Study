@@ -69,7 +69,11 @@ f1-score, and computational time acquiring 96.44%,
 accuracy achieved, overall performance, and the
 computation time it takes for each step, MobileNetV2 is the
 best choice for Pothole detection.
-a. Future Wo
+
+## RESULTS
+![Screenshot 2024-01-06 230933](https://github.com/hamidhosen42/Pothole-Detection-Using-Transfer-Learning-Models-A-Comparative-Study/assets/68488154/f1e4bceb-806c-40a6-87c9-a1b960c3be65)
+
+
 ## Authors
 
 - [@hamidhosen42](https://www.github.com/hamidhosen42)
