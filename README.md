@@ -27,7 +27,7 @@ of all models used in this study with an accuracy of
 96.37%. It has also taken the least computational time
 for each image.
 
-The dataset [12] that was used for this research was
+The dataset that was used for this research was
 taken from Kaggle as it is the largest worldwide data science
 community, providing powerful tools and useful resources
 to help you achieve your data science goals. The data used
@@ -77,11 +77,21 @@ a. Future Wo
 
 ## 🛠 Skills
 CNN, VGG16, VGG19, MobileNet-v2, Inception-V3, Xception, Inception, ResNetV2
+
 ## 🚀 About Me
 🔭 I’m currently working on Flutter App Developer and Machine Learning
+
 🌱 I’m currently learning Deep Learning and NLP
+
 👯 I’m looking to collaborate on Flutter and ReactJs and Machine Learning
+
 📫 How to reach me mdhamidhosen4@gmail.com
+
+## Screenshot
+![Screenshot 2024-01-06 225735](https://github.com/hamidhosen42/Pothole-Detection-Using-Transfer-Learning-Models-A-Comparative-Study/assets/68488154/54a079bd-f9a7-44a7-a77c-e95e9f4b7ca6)
+![Screenshot 2024-01-06 225839](https://github.com/hamidhosen42/Pothole-Detection-Using-Transfer-Learning-Models-A-Comparative-Study/assets/68488154/9b95ac19-da2a-400e-a0b2-17e007bf1a35)
+![Screenshot 2024-01-06 225824](https://github.com/hamidhosen42/Pothole-Detection-Using-Transfer-Learning-Models-A-Comparative-Study/assets/68488154/49f137db-0184-4cd6-9479-43b18c7271a1)
+
 
 
 ## Badges
